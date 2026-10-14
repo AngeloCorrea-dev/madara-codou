@@ -1,0 +1,2 @@
+Primeiro passo instalar o git
+Segundo passo abrir o git em uma pasta para criar o repositório
