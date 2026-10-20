@@ -1,0 +1,4 @@
+uma linha escrita desta forma
+outra linha escrita desta maneira
+a terceira linha é a sequencia das linhas anteriores
+mas essa linha não tem significado 
